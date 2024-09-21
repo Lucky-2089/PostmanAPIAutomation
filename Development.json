@@ -1,0 +1,21 @@
+{
+	"id": "ceaab791-5c7e-4c6d-8706-144d750e6469",
+	"name": "Development",
+	"values": [
+		{
+			"key": "key",
+			"value": "baseUrl",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Value",
+			"value": "https://66eeed1e3ed5bb4d0bf25b89.mockapi.io/api/orders/",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-09-21T16:54:08.366Z",
+	"_postman_exported_using": "Postman/11.13.1"
+}
